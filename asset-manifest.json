@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/filter-contact-list-react-2022/static/css/main.652713c6.css",
+    "main.js": "/filter-contact-list-react-2022/static/js/main.e4dbb89e.js",
+    "index.html": "/filter-contact-list-react-2022/index.html",
+    "main.652713c6.css.map": "/filter-contact-list-react-2022/static/css/main.652713c6.css.map",
+    "main.e4dbb89e.js.map": "/filter-contact-list-react-2022/static/js/main.e4dbb89e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.652713c6.css",
+    "static/js/main.e4dbb89e.js"
+  ]
+}
