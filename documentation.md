@@ -5,6 +5,9 @@
 5. uredujemo App.js fajl
 
 
+Dummy data
+https://www.mockaroo.com/
+
 
 Github pages
 1. dodajemo homepage u package.json fajlu
